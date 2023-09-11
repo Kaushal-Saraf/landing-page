@@ -152,7 +152,7 @@ div h1{
 
     }
     div h1 {
-      font-size: 32px;
+        content: 100px 100px;
     }
     .textbg3{
         position: absolute;
